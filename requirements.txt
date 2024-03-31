@@ -1,5 +1,3 @@
-Sure! Here are the libraries without their versions:
-
 absl-py
 aiofiles
 aiohttp
@@ -236,5 +234,3 @@ xlrd
 XlsxWriter
 yagmail
 yarl
-youtube-dl
-yt-dlp
